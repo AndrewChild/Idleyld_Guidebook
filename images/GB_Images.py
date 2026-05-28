@@ -15,7 +15,6 @@ Topo(name='Curl the Burl',
       border='rect452',
       routes={
           'path293':book.climbs['Curl the Burl'],
-          'path391':book.climbs['Curl the Burl'],
           'path875':book.climbs['Curl the Burl'],
       })
 Topo(name='Idleyld Dyno',
@@ -221,7 +220,7 @@ Topo(name='Tormentum',
          'topo_o': r'./images/maps/topos/',
          'topo_i': r'./images/maps/topos/'},
       file_name='tormentum.svg',
-      size='h',
+      size='f',
       width='1.0',
       routes={
           'path2751':book.climbs['Rare Earth'],
