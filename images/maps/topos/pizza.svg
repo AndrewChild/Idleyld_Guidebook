@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1916"
+   width="5440"
+   height="4096"
+   viewBox="0 0 5440 4096"
+   sodipodi:docname="pizza.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1920" />
+  <sodipodi:namedview
+     id="namedview1918"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.21313477"
+     inkscape:cx="2186.4101"
+     inkscape:cy="2050.3459"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1922" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1922">
+    <image
+       width="5440"
+       height="4096"
+       preserveAspectRatio="none"
+       xlink:href="pizza.jpg"
+       id="image1924" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="M 3035.638,3040.3299 C 2552.3757,2397.5441 2360.0092,2219.2532 2322.4742,1759.4502 2284.9393,1299.6472 2472.614,849.22795 2191.1019,563.02405"
+       id="path2043" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path2045"
+       cx="2352.9714"
+       cy="1958.8545"
+       rx="35.189003"
+       ry="39.880871" />
+  </g>
+</svg>

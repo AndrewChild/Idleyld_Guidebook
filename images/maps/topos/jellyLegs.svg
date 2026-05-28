@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1475"
+   width="5440"
+   height="4096"
+   viewBox="0 0 5440 4096"
+   sodipodi:docname="jellyLegs.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1479" />
+  <sodipodi:namedview
+     id="namedview1477"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.21313477"
+     inkscape:cx="2186.4101"
+     inkscape:cy="2050.3459"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1481" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1481">
+    <image
+       width="5440"
+       height="4096"
+       preserveAspectRatio="none"
+       xlink:href="jellyLegs.jpg"
+       id="image1483" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="m 1374.7171,3204.5452 c -117.2967,-18.7674 -178.291,-441.0355 -107.913,-656.8614 70.378,-215.8258 408.1925,-558.3321 417.5762,-708.4719"
+       id="path1602" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path1604"
+       cx="1297.3013"
+       cy="2460.8843"
+       rx="49.264606"
+       ry="44.572739" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="m 2758.8179,2932.417 c -84.4536,-89.1455 -117.2967,-164.2154 28.1512,-253.3609 145.4479,-89.1454 117.2967,-286.2039 117.2967,-286.2039"
+       id="path1606" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path1608"
+       cx="2819.8123"
+       cy="2648.5591"
+       rx="28.151203"
+       ry="39.880871" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="m 3195.1615,2242.7125 c 253.3608,-426.9599 23.4594,-938.3734 -89.1455,-1004.0596"
+       id="path1610"
+       sodipodi:nodetypes="cc" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path1612"
+       cx="3303.0745"
+       cy="1782.9095"
+       rx="51.610538"
+       ry="42.226803" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="rect1614"
+       width="5081.292"
+       height="3354.6851"
+       x="121.98855"
+       y="520.79724" />
+  </g>
+</svg>

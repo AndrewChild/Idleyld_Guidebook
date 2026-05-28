@@ -1,0 +1,13 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" version="1.1" id="svg1775" width="4027.6284" height="3549.8867" viewBox="570.63599 510.91827 4027.6284 3549.8867" ns1:docname="panopticon.svg" ns2:version="1.2 (dc2aedaf03, 2022-05-15)">
+  <ns0:defs id="defs1779" />
+  <ns1:namedview id="namedview1777" pagecolor="#ffffff" bordercolor="#cccccc" borderopacity="1" ns2:showpageshadow="0" ns2:pageopacity="1" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.15070904" ns2:cx="2282.5439" ns2:cy="1380.1428" ns2:window-width="1920" ns2:window-height="1027" ns2:window-x="-8" ns2:window-y="379" ns2:window-maximized="1" ns2:current-layer="g1781" />
+  <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g1781">
+    <ns0:image width="5440" height="4096" preserveAspectRatio="none" ns3:href="panopticon.jpg" id="image1783" />
+    <ns0:path style="fill:none;stroke:#000000;stroke-width:30.38;stroke-dasharray:none" d="M 2435.079,2758.8179 C 2322.4742,2383.4685 2242.7125,961.83276 2317.7824,717.85567" id="path1902" />
+    <ns0:path id="path1902_clone" style="fill:none;stroke:#FFFFFF;stroke-width:30.38;stroke-dasharray:130.2, 130.2" d="M 2435.079,2758.8179 C 2322.4742,2383.4685 2242.7125,961.83276 2317.7824,717.85567" />
+    <ns0:circle id="path1904" style="fill:#000000;fill-opacity:1;stroke:#FFFFFF;stroke-width:13.02;stroke-dasharray:none;stroke-opacity:1" cx="2336.5498" cy="2094.9187" r="135.9288" />
+    <ns0:text id="path1904_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:4.34;stroke-dasharray:none;stroke-opacity:1" x="2292.0213999999996" y="2157.4147000000003">
+      <ns0:text id="path1904_text" x="2292.0213999999996" y="2157.4147000000003" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:156.24px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">5</ns0:text>
+    </ns0:text>
+  </ns0:g>
+</ns0:svg>

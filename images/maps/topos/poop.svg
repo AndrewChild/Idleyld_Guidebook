@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2054"
+   width="5440"
+   height="4096"
+   viewBox="0 0 5440 4096"
+   sodipodi:docname="poop.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2058" />
+  <sodipodi:namedview
+     id="namedview2056"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.21313477"
+     inkscape:cx="2186.4101"
+     inkscape:cy="2050.3459"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2060" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g2060">
+    <image
+       width="5440"
+       height="4096"
+       preserveAspectRatio="none"
+       xlink:href="poop.jpg"
+       id="image2062" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="m 3077.8648,1567.0836 c 408.1925,-51.6105 577.0997,9.3838 544.2566,-187.6747 -32.843,-197.0584 -445.7274,-553.64029 -445.7274,-553.64029"
+       id="path2181" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="m 4391.5876,1543.6243 c -314.3551,-14.0756 -713.1638,-70.378 -774.158,-192.3666"
+       id="path2183"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="m 1904.8981,2885.4983 c -201.7503,-731.9313 -42.2269,-1482.63 276.8201,-1759.4502 319.047,-276.82015 136.0642,-558.33218 136.0642,-558.33218"
+       id="path2185" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path2187"
+       cx="3518.9004"
+       cy="1194.0802"
+       rx="42.226803"
+       ry="21.113401" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path2189"
+       cx="1886.1306"
+       cy="1649.1913"
+       rx="98.529213"
+       ry="58.648338" />
+  </g>
+</svg>

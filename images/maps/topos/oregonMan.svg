@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1628"
+   width="5440"
+   height="4096"
+   viewBox="0 0 5440 4096"
+   sodipodi:docname="oregonMan.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1632" />
+  <sodipodi:namedview
+     id="namedview1630"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.21313477"
+     inkscape:cx="2186.4101"
+     inkscape:cy="2050.3459"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1634" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1634">
+    <image
+       width="5440"
+       height="4096"
+       preserveAspectRatio="none"
+       xlink:href="oregonMan.jpg"
+       id="image1636" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="rect1755"
+       width="4283.6748"
+       height="3073.1729"
+       x="746.0069"
+       y="319.04697" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="m 1646.8454,2599.2944 c 243.9771,-248.669 455.1111,-370.6575 792.9255,-370.6575 337.8144,0 1283.441,246.375 957.1409,-412.8843 -229.9015,-464.4949 -445.7274,-422.268 -619.3265,-727.2394 -145.488,-255.58703 -173.599,-365.96566 -182.9828,-506.72168"
+       id="path1757"
+       sodipodi:nodetypes="csssc" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="m 2421.0034,2223.945 c 267.4365,23.4594 0,-563.024 -197.0584,-877.3791 -84.7285,-135.1622 -23.4593,-229.9015 103.2211,-337.8145 83.381,-71.0283 107.9129,-361.27374 23.4593,-581.79149"
+       id="path1759"
+       sodipodi:nodetypes="cssc" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path1761"
+       cx="3120.0916"
+       cy="2280.2476"
+       r="42.226803" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path1763"
+       cx="2397.5442"
+       cy="1653.8832"
+       rx="42.226803"
+       ry="39.880871" />
+  </g>
+</svg>

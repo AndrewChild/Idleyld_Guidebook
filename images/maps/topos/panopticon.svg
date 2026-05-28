@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1775"
+   width="5440"
+   height="4096"
+   viewBox="0 0 5440 4096"
+   sodipodi:docname="panopticon.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1779" />
+  <sodipodi:namedview
+     id="namedview1777"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.15070904"
+     inkscape:cx="2282.5439"
+     inkscape:cy="1380.1428"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1781" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1781">
+    <image
+       width="5440"
+       height="4096"
+       preserveAspectRatio="none"
+       xlink:href="panopticon.jpg"
+       id="image1783" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="M 2435.079,2758.8179 C 2322.4742,2383.4685 2242.7125,961.83276 2317.7824,717.85567"
+       id="path1902" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path1904"
+       cx="2336.5498"
+       cy="2094.9187"
+       rx="42.226803"
+       ry="53.95647" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="rect1906"
+       width="4027.6284"
+       height="3549.8867"
+       x="570.63599"
+       y="510.91827" />
+  </g>
+</svg>

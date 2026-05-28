@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1024"
+   width="5440"
+   height="4096"
+   viewBox="0 0 5440 4096"
+   sodipodi:docname="greyRoom.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1028" />
+  <sodipodi:namedview
+     id="namedview1026"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.21313477"
+     inkscape:cx="2186.4101"
+     inkscape:cy="2050.3459"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1030" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1030">
+    <image
+       width="5440"
+       height="4096"
+       preserveAspectRatio="none"
+       xlink:href="greyRoom.jpg"
+       id="image1032" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="m 2491.3814,2575.8351 c 197.0585,-253.3609 -37.5349,-558.3322 168.9073,-966.5247 206.4421,-408.1924 483.2623,-506.7216 455.1111,-750.69872"
+       id="path1151" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path1153"
+       cx="2575.835"
+       cy="1890.8225"
+       r="56.302406" />
+  </g>
+</svg>

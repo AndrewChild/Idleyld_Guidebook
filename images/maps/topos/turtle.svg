@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2918"
+   width="5440"
+   height="4096"
+   viewBox="0 0 5440 4096"
+   sodipodi:docname="turtle.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2922" />
+  <sodipodi:namedview
+     id="namedview2920"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.21313477"
+     inkscape:cx="2186.4101"
+     inkscape:cy="2055.0378"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2924" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g2924">
+    <image
+       width="5440"
+       height="4096"
+       preserveAspectRatio="none"
+       xlink:href="turtle.jpg"
+       id="image2926" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="m 1191.7342,3335.9175 c 694.3964,-304.9713 666.2452,-459.803 567.716,-652.1695 -98.5292,-192.3666 -304.9714,-835.1524 -239.2853,-1158.8912 65.6862,-323.7388 534.8729,-835.15233 412.8844,-1121.35623"
+       id="path3045" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="m 3476.6735,3288.9989 c 145.4479,-229.9015 51.6106,-375.3494 182.9829,-563.0241 131.3722,-187.6747 178.2909,-398.8087 136.0641,-624.0183 -42.2268,-225.2097 -23.4593,-286.2039 -14.0756,-375.3494"
+       id="path3047"
+       sodipodi:nodetypes="cssc" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path3049"
+       cx="3558.7812"
+       cy="3098.9783"
+       r="49.264606" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="m 1656.2291,2430.3872 c -84.4536,-351.8901 -455.1111,-42.2268 -511.4135,-258.0527 -56.3024,-215.8259 -4.6919,-746.0069 37.5349,-858.6117"
+       id="path3051" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path3053"
+       cx="1184.6964"
+       cy="2228.637"
+       rx="53.95647"
+       ry="60.994274" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="m 1632.7698,3101.3242 c 624.0183,-267.4365 775.6654,-154.6008 1097.8969,-356.5819 435.3402,-272.8798 867.9954,-685.0126 943.0653,-966.5247"
+       id="path3055"
+       sodipodi:nodetypes="csc" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path3057"
+       cx="2962.9141"
+       cy="2580.5269"
+       rx="49.264606"
+       ry="51.610538" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="m 3908.3253,2815.1203 c -98.5292,-243.9771 -98.5292,-403.5006 -98.5292,-544.2566"
+       id="path3059" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path3061"
+       cx="3863.7527"
+       cy="2693.1318"
+       rx="53.95647"
+       ry="42.226803" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path3063"
+       cx="1501.3975"
+       cy="1787.6013"
+       rx="79.761742"
+       ry="89.145477" />
+  </g>
+</svg>

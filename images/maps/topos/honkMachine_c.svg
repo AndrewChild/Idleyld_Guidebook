@@ -1,0 +1,21 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" version="1.1" id="svg1162" width="4269.5991" height="3021.5625" viewBox="229.90149 459.80298 4269.5991 3021.5625" ns1:docname="honkMachine.svg" ns2:version="1.2 (dc2aedaf03, 2022-05-15)">
+  <ns0:defs id="defs1166" />
+  <ns1:namedview id="namedview1164" pagecolor="#ffffff" bordercolor="#cccccc" borderopacity="1" ns2:showpageshadow="0" ns2:pageopacity="1" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.21313477" ns2:cx="1625.7319" ns2:cy="2055.0378" ns2:window-width="1536" ns2:window-height="811" ns2:window-x="1912" ns2:window-y="-8" ns2:window-maximized="1" ns2:current-layer="g1168" />
+  <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g1168">
+    <ns0:image width="5440" height="4096" preserveAspectRatio="none" ns3:href="honkMachine.jpg" id="image1170" />
+    <ns0:path style="fill:none;stroke:#008000;stroke-width:32.199999999999996;stroke-dasharray:none" d="m 2031.5785,2270.8637 c -37.535,-835.1524 23.4593,-1130.74 65.6861,-1280.87974" id="path1289" />
+    <ns0:path style="fill:none;stroke:#4169e1;stroke-width:32.199999999999996;stroke-dasharray:none" d="m 3213.9289,2608.6781 c 370.6576,-103.221 384.7332,-553.6403 300.2796,-675.6288 -84.4536,-121.9886 -136.0642,-520.7973 -136.0642,-520.7973" id="path1293" ns1:nodetypes="csc" />
+    <ns0:path style="fill:none;stroke:#4169e1;stroke-width:32.199999999999996;stroke-dasharray:none" d="m 3701.8831,2594.6025 c -89.1455,-56.3024 -286.2039,-150.1398 -187.6747,-272.1283" id="path5274" ns1:nodetypes="cc" />
+    <ns0:path id="path1289_clone" style="fill:none;stroke:#FFFFFF;stroke-width:32.199999999999996;stroke-dasharray:138.0, 138.0" d="m 2031.5785,2270.8637 c -37.535,-835.1524 23.4593,-1130.74 65.6861,-1280.87974" />
+    <ns0:path id="path1293_clone" style="fill:none;stroke:#FFFFFF;stroke-width:32.199999999999996;stroke-dasharray:138.0, 138.0" d="m 3213.9289,2608.6781 c 370.6576,-103.221 384.7332,-553.6403 300.2796,-675.6288 -84.4536,-121.9886 -136.0642,-520.7973 -136.0642,-520.7973" />
+    <ns0:path id="path5274_clone" style="fill:none;stroke:#FFFFFF;stroke-width:32.199999999999996;stroke-dasharray:138.0, 138.0" d="m 3701.8831,2594.6025 c -89.1455,-56.3024 -286.2039,-150.1398 -187.6747,-272.1283" />
+    <ns0:circle id="path1291" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:13.799999999999999;stroke-dasharray:none;stroke-opacity:1" cx="2010.4651" cy="1883.7847" r="144.072" />
+    <ns0:text id="path1291_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:4.6;stroke-dasharray:none;stroke-opacity:1" x="1963.2691" y="1950.0247">
+      <ns0:text id="path1291_text" x="1963.2691" y="1950.0247" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:165.6px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">5</ns0:text>
+    </ns0:text>
+    <ns0:circle id="path1295" style="fill:#4169e1;fill-opacity:1;stroke:#FFFFFF;stroke-width:13.799999999999999;stroke-dasharray:none;stroke-opacity:1" cx="3542.3596" cy="2184.064" r="144.072" />
+    <ns0:text id="path1295_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:4.6;stroke-dasharray:none;stroke-opacity:1" x="3495.1636" y="2250.3039999999996">
+      <ns0:text id="path1295_text" x="3495.1636" y="2250.3039999999996" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:165.6px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">6</ns0:text>
+    </ns0:text>
+  </ns0:g>
+</ns0:svg>

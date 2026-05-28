@@ -1,0 +1,15 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" version="1.1" id="svg2201" width="5440" height="4096" viewBox="0 0 5440 4096" ns1:docname="prophet.svg" ns2:version="1.2 (dc2aedaf03, 2022-05-15)">
+  <ns0:defs id="defs2205" />
+  <ns1:namedview id="namedview2203" pagecolor="#ffffff" bordercolor="#cccccc" borderopacity="1" ns2:showpageshadow="0" ns2:pageopacity="1" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.21313477" ns2:cx="2186.4101" ns2:cy="2050.3459" ns2:window-width="1920" ns2:window-height="1027" ns2:window-x="-8" ns2:window-y="379" ns2:window-maximized="1" ns2:current-layer="g2207" />
+  <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g2207">
+    <ns0:image width="5440" height="4096" preserveAspectRatio="none" ns3:href="prophet.jpg" id="image2209" />
+    <ns0:path style="fill:none;stroke:#b8860b;stroke-width:41.02;stroke-dasharray:none" d="m 2847.9633,2125.4158 c -126.6804,-117.2967 -126.6804,-365.9656 -56.3024,-577.0996 70.378,-211.134 89.1455,-281.5121 51.6106,-473.8786" id="path2328" ns1:nodetypes="csc" />
+    <ns0:path style="fill:none;stroke:#b8860b;stroke-width:41.02;stroke-dasharray:none" d="m 2270.8637,2040.9622 c 403.5006,-42.2268 483.2623,-42.2268 473.8786,-215.8259" id="path2330" ns1:nodetypes="cc" />
+    <ns0:path id="path2328_clone" style="fill:none;stroke:#FFFFFF;stroke-width:41.02;stroke-dasharray:175.8, 175.8" d="m 2847.9633,2125.4158 c -126.6804,-117.2967 -126.6804,-365.9656 -56.3024,-577.0996 70.378,-211.134 89.1455,-281.5121 51.6106,-473.8786" />
+    <ns0:path id="path2330_clone" style="fill:none;stroke:#FFFFFF;stroke-width:41.02;stroke-dasharray:175.8, 175.8" d="m 2270.8637,2040.9622 c 403.5006,-42.2268 483.2623,-42.2268 473.8786,-215.8259" />
+    <ns0:circle id="path2332" style="fill:#b8860b;fill-opacity:1;stroke:#FFFFFF;stroke-width:17.580000000000002;stroke-dasharray:none;stroke-opacity:1" cx="2772.8936" cy="1616.3483" r="183.5352" />
+    <ns0:text id="path2332_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:5.86;stroke-dasharray:none;stroke-opacity:1" x="2652.6464" y="1700.7323000000001">
+      <ns0:text id="path2332_text" x="2652.6464" y="1700.7323000000001" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:210.96px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">13</ns0:text>
+    </ns0:text>
+  </ns0:g>
+</ns0:svg>

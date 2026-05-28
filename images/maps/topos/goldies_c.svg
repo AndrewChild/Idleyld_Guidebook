@@ -1,0 +1,13 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" version="1.1" id="svg886" width="3791.0286" height="3199.8533" viewBox="553.64032 511.41351 3791.0286 3199.8533" ns1:docname="goldies.svg" ns2:version="1.2 (dc2aedaf03, 2022-05-15)">
+  <ns0:defs id="defs890" />
+  <ns1:namedview id="namedview888" pagecolor="#ffffff" bordercolor="#cccccc" borderopacity="1" ns2:showpageshadow="0" ns2:pageopacity="1" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.21313477" ns2:cx="2186.4101" ns2:cy="2050.3459" ns2:window-width="1920" ns2:window-height="1027" ns2:window-x="-8" ns2:window-y="379" ns2:window-maximized="1" ns2:current-layer="g892" />
+  <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g892">
+    <ns0:image width="5440" height="4096" preserveAspectRatio="none" ns3:href="goldies.jpg" id="image894" />
+    <ns0:path style="fill:none;stroke:#008000;stroke-width:28.560000000000002;stroke-dasharray:none" d="m 3082.5567,2575.8351 c -112.6048,-267.4365 178.291,-497.338 159.5235,-858.6117 -18.7675,-361.2738 -121.9886,-656.8614 -98.5292,-755.39064" id="path1013" />
+    <ns0:path id="path1013_clone" style="fill:none;stroke:#FFFFFF;stroke-width:28.560000000000002;stroke-dasharray:122.4, 122.4" d="m 3082.5567,2575.8351 c -112.6048,-267.4365 178.291,-497.338 159.5235,-858.6117 -18.7675,-361.2738 -121.9886,-656.8614 -98.5292,-755.39064" />
+    <ns0:circle id="path1015" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:12.24;stroke-dasharray:none;stroke-opacity:1" cx="3246.772" cy="1801.677" r="127.7856" />
+    <ns0:text id="path1015_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:4.08;stroke-dasharray:none;stroke-opacity:1" x="3204.9112" y="1860.4289999999999">
+      <ns0:text id="path1015_text" x="3204.9112" y="1860.4289999999999" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:146.88px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">8</ns0:text>
+    </ns0:text>
+  </ns0:g>
+</ns0:svg>

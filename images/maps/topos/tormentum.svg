@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2624"
+   width="5440"
+   height="4096"
+   viewBox="0 0 5440 4096"
+   sodipodi:docname="tormentum.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2628" />
+  <sodipodi:namedview
+     id="namedview2626"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.21313477"
+     inkscape:cx="4011.5464"
+     inkscape:cy="1435.7113"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2630" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g2630">
+    <image
+       width="5440"
+       height="4096"
+       preserveAspectRatio="none"
+       xlink:href="tormentum.jpg"
+       id="image2632" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="M 2313.0905,2364.701 C 2526.2907,2025.1563 2225.5639,1351.87 1930.8729,1164.4955 1692.0021,1021.8365 1592.4725,822.77746 1655.5079,670.16551"
+       id="path2751"
+       sodipodi:nodetypes="ccc" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path2753"
+       cx="2254.4421"
+       cy="1571.7755"
+       rx="30.497137"
+       ry="32.843071" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="M 3833.2554,1956.5086 C 3270.2314,1233.9611 3171.7022,253.36082 3171.7022,253.36082"
+       id="path2755" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path2757"
+       cx="3579.8945"
+       cy="1564.7377"
+       rx="46.918671"
+       ry="16.421535" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="M 5240.8156,1651.5372 C 4870.1581,1421.6357 4762.2451,1487.3219 4583.9542,1079.1294 4405.6632,670.937 4199.2211,309.66323 4096,220.51775"
+       id="path2759" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path2761"
+       cx="4499.5005"
+       cy="879.7251"
+       rx="37.534939"
+       ry="35.189003" />
+  </g>
+</svg>

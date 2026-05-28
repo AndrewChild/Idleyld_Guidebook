@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg3080"
+   width="4096"
+   height="5440"
+   viewBox="0 0 4096 5440"
+   sodipodi:docname="woodlandRights.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3084" />
+  <sodipodi:namedview
+     id="namedview3082"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.16047794"
+     inkscape:cx="1339.748"
+     inkscape:cy="2723.1157"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3086" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g3086">
+    <image
+       width="4096"
+       height="5440"
+       preserveAspectRatio="none"
+       xlink:href="woodlandRights.jpg"
+       id="image3088" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="m 1657.5487,3701.4433 c 224.3299,-43.6197 373.8831,-211.8671 249.2554,-554.5934 -124.6277,-342.7262 -492.2795,-573.2875 -218.0985,-922.2451 274.181,-348.9576 405.0401,-704.1466 299.1065,-1003.2531"
+       id="path3207" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="m 2062.5888,3601.7411 c -149.5533,18.6942 -112.165,-280.4123 -112.165,-280.4123"
+       id="path3209" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path3211"
+       cx="1775.9451"
+       cy="2903.8259"
+       r="37.388317" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="m 1221.3517,2934.9828 c -93.4708,267.9496 498.5108,-124.6277 411.2714,-286.6437"
+       id="path3213"
+       sodipodi:nodetypes="cc" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path3215"
+       cx="1389.5991"
+       cy="2969.2554"
+       rx="56.082474"
+       ry="77.892326" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="rect3227"
+       width="3975.6243"
+       height="4517.7549"
+       x="81.008018"
+       y="398.80872" />
+  </g>
+</svg>

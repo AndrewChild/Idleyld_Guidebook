@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg886"
+   width="5440"
+   height="4096"
+   viewBox="0 0 5440 4096"
+   sodipodi:docname="goldies.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs890" />
+  <sodipodi:namedview
+     id="namedview888"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.21313477"
+     inkscape:cx="2186.4101"
+     inkscape:cy="2050.3459"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g892" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g892">
+    <image
+       width="5440"
+       height="4096"
+       preserveAspectRatio="none"
+       xlink:href="goldies.jpg"
+       id="image894" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="m 3082.5567,2575.8351 c -112.6048,-267.4365 178.291,-497.338 159.5235,-858.6117 -18.7675,-361.2738 -121.9886,-656.8614 -98.5292,-755.39064"
+       id="path1013" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path1015"
+       cx="3246.772"
+       cy="1801.677"
+       rx="79.761742"
+       ry="42.226803" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="rect1306"
+       width="3791.0286"
+       height="3199.8533"
+       x="553.64032"
+       y="511.41351" />
+  </g>
+</svg>

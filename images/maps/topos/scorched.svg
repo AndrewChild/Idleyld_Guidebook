@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2480"
+   width="5440"
+   height="4096"
+   viewBox="0 0 5440 4096"
+   sodipodi:docname="scorched.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2484" />
+  <sodipodi:namedview
+     id="namedview2482"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.15070904"
+     inkscape:cx="2196.285"
+     inkscape:cy="2169.7438"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2486" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g2486">
+    <image
+       width="5440"
+       height="4096"
+       preserveAspectRatio="none"
+       xlink:href="scorched.jpg"
+       id="image2488" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="M 2308.3986,2937.1088 C 2923.0332,2833.8877 3490.7491,1909.5899 3340.6094,1599.9267 3190.4696,1290.2635 2955.8763,1323.1065 2960.5682,1130.74 c 4.6918,-192.36658 89.1454,-314.35512 89.1454,-314.35512"
+       id="path2607" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="m 3091.9404,2838.5796 c -154.8316,-37.5349 -173.599,-248.6689 -112.6048,-333.1226"
+       id="path2609" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path2611"
+       cx="3213.929"
+       cy="2186.4102"
+       rx="46.918671"
+       ry="37.534939" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="rect2613"
+       width="3855.1106"
+       height="3802.0281"
+       x="1260.7074"
+       y="46.447113" />
+  </g>
+</svg>

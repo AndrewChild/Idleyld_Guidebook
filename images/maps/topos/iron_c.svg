@@ -1,0 +1,19 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" version="1.1" id="svg1328" width="4133.7939" height="3304.3806" viewBox="1088.1896 583.90662 4133.7939 3304.3806" ns1:docname="iron.svg" ns2:version="1.2 (dc2aedaf03, 2022-05-15)">
+  <ns0:defs id="defs1332" />
+  <ns1:namedview id="namedview1330" pagecolor="#ffffff" bordercolor="#cccccc" borderopacity="1" ns2:showpageshadow="0" ns2:pageopacity="1" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.15070904" ns2:cx="2627.5796" ns2:cy="2375.4382" ns2:window-width="1920" ns2:window-height="1027" ns2:window-x="-8" ns2:window-y="379" ns2:window-maximized="1" ns2:current-layer="g1334" />
+  <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g1334">
+    <ns0:image width="5440" height="4096" preserveAspectRatio="none" ns3:href="iron.jpg" id="image1336" />
+    <ns0:path style="fill:none;stroke:#b8860b;stroke-width:31.150000000000002;stroke-dasharray:none" d="m 1881.4387,2566.4513 c 159.5235,178.2909 1779.6341,427.0149 1886.1306,-164.2153 21.1759,-117.561 14.0756,-229.9015 14.0756,-229.9015" id="path1455" ns1:nodetypes="csc" />
+    <ns0:path style="fill:none;stroke:#008000;stroke-width:31.150000000000002;stroke-dasharray:none" d="M 1876.7468,2444.4628 C 2111.3402,2191.1019 2261.48,1309.0309 2261.48,1309.0309" id="path1459" />
+    <ns0:path id="path1455_clone" style="fill:none;stroke:#FFFFFF;stroke-width:31.150000000000002;stroke-dasharray:133.5, 133.5" d="m 1881.4387,2566.4513 c 159.5235,178.2909 1779.6341,427.0149 1886.1306,-164.2153 21.1759,-117.561 14.0756,-229.9015 14.0756,-229.9015" />
+    <ns0:path id="path1459_clone" style="fill:none;stroke:#FFFFFF;stroke-width:31.150000000000002;stroke-dasharray:133.5, 133.5" d="M 1876.7468,2444.4628 C 2111.3402,2191.1019 2261.48,1309.0309 2261.48,1309.0309" />
+    <ns0:circle id="path1457" style="fill:#b8860b;fill-opacity:1;stroke:#FFFFFF;stroke-width:13.350000000000001;stroke-dasharray:none;stroke-opacity:1" cx="2899.574" cy="2770.5476" r="139.374" />
+    <ns0:text id="path1457_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:4.45;stroke-dasharray:none;stroke-opacity:1" x="2853.917" y="2834.6276">
+      <ns0:text id="path1457_text" x="2853.917" y="2834.6276" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:160.20000000000002px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">7</ns0:text>
+    </ns0:text>
+    <ns0:circle id="path1461" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:13.350000000000001;stroke-dasharray:none;stroke-opacity:1" cx="2141.8374" cy="1834.52" r="139.374" />
+    <ns0:text id="path1461_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:4.45;stroke-dasharray:none;stroke-opacity:1" x="2096.1803999999997" y="1898.6">
+      <ns0:text id="path1461_text" x="2096.1803999999997" y="1898.6" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:160.20000000000002px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">6</ns0:text>
+    </ns0:text>
+  </ns0:g>
+</ns0:svg>

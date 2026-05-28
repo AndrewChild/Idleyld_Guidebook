@@ -1,0 +1,87 @@
+\documentclass[10pt, twoside]{report}
+ \renewcommand{\familydefault}{\sfdefault}
+\usepackage[utf8]{inputenc}
+\usepackage[papersize={6.09in,8.66in},outer=0.63in,inner=0.38in,bottom=0.38in,top=0.83in]{geometry} %A5 with 0.13" bleed outer and inner margins are swapped because its hard to get late realize that the document should start with a right side page for some reason
+\usepackage{enumitem}
+\usepackage[explicit]{titlesec}
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{pifont}
+\usepackage{framed}
+\usepackage{caption}
+\usepackage{bookmark}
+\usepackage{xcolor}
+\usepackage{supertabular}
+\usepackage{amssymb}
+\usepackage[section]{placeins}
+\usepackage{multicol}
+\usepackage{wrapfig}
+\usepackage{changepage} 
+\usepackage{needspace}
+\usepackage[percent]{overpic}
+\usepackage{pdflscape}
+\usepackage{pdfpages}
+\usepackage{colortbl}
+\usepackage{varioref}
+\usepackage[framemethod=TikZ]{mdframed}
+\usepackage{soul}
+%-------------- Formatting -------------------
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{} % Clears all header and footer fields
+\setlength\parindent{0pt}
+\setlength{\tabcolsep}{3pt}
+\setcounter{secnumdepth}{0} % prevents section (sub area) numbering
+\graphicspath{ {../} }
+% these next three lines prevent page numbers from showing up on chapter header pages
+\makeatletter
+\let\ps@plain\ps@empty
+\makeatother
+\titleformat{\chapter}[display]
+  {\normalfont\color{white} \begin {shaded*}\bfseries}
+  {}
+  {0pt}
+  {\Huge#1\end{shaded*}}
+\titlespacing*{\chapter}
+  {0pt}
+  {-50pt}
+  {0pt}
+\titleformat{\section}[hang]
+  {\normalfont\color{white}}
+  {}
+  {0pt}
+  {\colorbox{\chapterColor}{\parbox{\dimexpr\columnwidth-2\fboxsep}{\Large#1}}}
+% hazard scale for highballs
+\newcommand{\warn}{\ooalign{$\bigtriangleup$\cr\hidewidth!\hidewidth}}
+% used for max width images
+\newcommand\measurepage{\dimexpr\pagegoal-\pagetotal-\baselineskip\relax}
+\mdfsetup{skipabove=\topskip,skipbelow=\topskip}
+\mdfdefinestyle{textinsert}{
+  backgroundcolor=\chapterColor!40,
+  frametitlerule=true,
+  %frametitlebackgroundcolor=\chapterColor,
+  skipabove=\topsep,
+  skipbelow=\topsep,
+  topline=false,
+  bottomline=false,
+  leftline=false,
+  rightline=false,
+  frametitlerule=false,
+  frametitletopline=false,
+  roundcorner=10pt
+}
+%-------------- Document -------------------
+\begin{document}
+\title{Idleyld}
+\date{2026-05-27}
+\maketitle
+\newcommand\chapterColor{MidnightBlue}
+\input{acknowledgements}
+\tableofcontents
+\clearpage
+\renewcommand\chapterColor{BrickRed}
+\input{Idleyld Boulders}
+\renewcommand\chapterColor{MidnightBlue}
+\input{index}
+\end{document}

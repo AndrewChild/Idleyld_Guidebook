@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1162"
+   width="5440"
+   height="4096"
+   viewBox="0 0 5440 4096"
+   sodipodi:docname="honkMachine.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1166" />
+  <sodipodi:namedview
+     id="namedview1164"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.21313477"
+     inkscape:cx="1625.7319"
+     inkscape:cy="2055.0378"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1168" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1168">
+    <image
+       width="5440"
+       height="4096"
+       preserveAspectRatio="none"
+       xlink:href="honkMachine.jpg"
+       id="image1170" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="m 2031.5785,2270.8637 c -37.535,-835.1524 23.4593,-1130.74 65.6861,-1280.87974"
+       id="path1289" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path1291"
+       cx="2010.4651"
+       cy="1883.7847"
+       rx="49.264606"
+       ry="39.880871" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="m 3213.9289,2608.6781 c 370.6576,-103.221 384.7332,-553.6403 300.2796,-675.6288 -84.4536,-121.9886 -136.0642,-520.7973 -136.0642,-520.7973"
+       id="path1293"
+       sodipodi:nodetypes="csc" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path1295"
+       cx="3542.3596"
+       cy="2184.064"
+       rx="46.918671"
+       ry="35.189003" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="rect1316"
+       width="4269.5991"
+       height="3021.5625"
+       x="229.90149"
+       y="459.80298" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="m 3701.8831,2594.6025 c -89.1455,-56.3024 -286.2039,-150.1398 -187.6747,-272.1283"
+       id="path5274"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>

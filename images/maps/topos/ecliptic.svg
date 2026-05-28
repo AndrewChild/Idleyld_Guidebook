@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg654"
+   width="5440"
+   height="4096"
+   viewBox="0 0 5440 4096"
+   sodipodi:docname="ecliptic.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs658" />
+  <sodipodi:namedview
+     id="namedview656"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.15070904"
+     inkscape:cx="3758.8987"
+     inkscape:cy="2859.8152"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g660" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g660">
+    <image
+       width="5440"
+       height="4096"
+       preserveAspectRatio="none"
+       xlink:href="ecliptic.jpg"
+       id="image662" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="M 3354.685,3091.9404 C 3509.5166,2646.2131 3359.3769,2613.37 3162.3184,2505.457 2965.26,2397.5441 2603.9863,1656.2291 2707.2074,811.69302"
+       id="path781"
+       sodipodi:nodetypes="csc" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path841"
+       cx="3354.6851"
+       cy="2625.0996"
+       rx="46.918671"
+       ry="42.226803" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="m 1974.0024,2312.4028 c 627.036,-481.0594 275.365,-447.8829 447.8829,-700.0244 172.5178,-252.1414 272.0474,-371.5769 272.0474,-573.9537"
+       id="path843"
+       sodipodi:nodetypes="csc" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path845"
+       cx="2241.0732"
+       cy="2080.1672"
+       rx="41.470638"
+       ry="36.494164" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="m 3410.5453,2843.227 c 69.6707,-318.4945 348.3534,-530.8242 514.2359,-544.0948"
+       id="path847" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path849"
+       cx="3735.675"
+       cy="2373.7793"
+       rx="26.541208"
+       ry="41.470638" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="rect851"
+       width="4803.958"
+       height="3324.2866"
+       x="159.24722"
+       y="411.3887" />
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" version="1.1" id="svg1475" width="5081.292" height="3354.6851" viewBox="121.98855 520.79724 5081.292 3354.6851" ns1:docname="jellyLegs.svg" ns2:version="1.2 (dc2aedaf03, 2022-05-15)">
+  <ns0:defs id="defs1479" />
+  <ns1:namedview id="namedview1477" pagecolor="#ffffff" bordercolor="#cccccc" borderopacity="1" ns2:showpageshadow="0" ns2:pageopacity="1" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.21313477" ns2:cx="2186.4101" ns2:cy="2050.3459" ns2:window-width="1920" ns2:window-height="1027" ns2:window-x="-8" ns2:window-y="379" ns2:window-maximized="1" ns2:current-layer="g1481" />
+  <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g1481">
+    <ns0:image width="5440" height="4096" preserveAspectRatio="none" ns3:href="jellyLegs.jpg" id="image1483" />
+    <ns0:path style="fill:none;stroke:#b8860b;stroke-width:18.48;stroke-dasharray:none" d="m 1374.7171,3204.5452 c -117.2967,-18.7674 -178.291,-441.0355 -107.913,-656.8614 70.378,-215.8258 408.1925,-558.3321 417.5762,-708.4719" id="path1602" />
+    <ns0:path style="fill:none;stroke:#4169e1;stroke-width:18.48;stroke-dasharray:none" d="m 2758.8179,2932.417 c -84.4536,-89.1455 -117.2967,-164.2154 28.1512,-253.3609 145.4479,-89.1454 117.2967,-286.2039 117.2967,-286.2039" id="path1606" />
+    <ns0:path style="fill:none;stroke:#4169e1;stroke-width:18.48;stroke-dasharray:none" d="m 3195.1615,2242.7125 c 253.3608,-426.9599 23.4594,-938.3734 -89.1455,-1004.0596" id="path1610" ns1:nodetypes="cc" />
+    <ns0:path id="path1602_clone" style="fill:none;stroke:#FFFFFF;stroke-width:18.48;stroke-dasharray:79.2, 79.2" d="m 1374.7171,3204.5452 c -117.2967,-18.7674 -178.291,-441.0355 -107.913,-656.8614 70.378,-215.8258 408.1925,-558.3321 417.5762,-708.4719" />
+    <ns0:path id="path1606_clone" style="fill:none;stroke:#FFFFFF;stroke-width:18.48;stroke-dasharray:79.2, 79.2" d="m 2758.8179,2932.417 c -84.4536,-89.1455 -117.2967,-164.2154 28.1512,-253.3609 145.4479,-89.1454 117.2967,-286.2039 117.2967,-286.2039" />
+    <ns0:path id="path1610_clone" style="fill:none;stroke:#FFFFFF;stroke-width:18.48;stroke-dasharray:79.2, 79.2" d="m 3195.1615,2242.7125 c 253.3608,-426.9599 23.4594,-938.3734 -89.1455,-1004.0596" />
+    <ns0:circle id="path1604" style="fill:#b8860b;fill-opacity:1;stroke:#FFFFFF;stroke-width:7.92;stroke-dasharray:none;stroke-opacity:1" cx="1297.3013" cy="2460.8843" r="82.6848" />
+    <ns0:text id="path1604_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:2.64;stroke-dasharray:none;stroke-opacity:1" x="1270.2149000000002" y="2498.9003000000002">
+      <ns0:text id="path1604_text" x="1270.2149000000002" y="2498.9003000000002" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:95.04px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">2</ns0:text>
+    </ns0:text>
+    <ns0:circle id="path1608" style="fill:#4169e1;fill-opacity:1;stroke:#FFFFFF;stroke-width:7.92;stroke-dasharray:none;stroke-opacity:1" cx="2819.8123" cy="2648.5591" r="82.6848" />
+    <ns0:text id="path1608_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:2.64;stroke-dasharray:none;stroke-opacity:1" x="2792.7259" y="2686.5751">
+      <ns0:text id="path1608_text" x="2792.7259" y="2686.5751" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:95.04px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">3</ns0:text>
+    </ns0:text>
+    <ns0:circle id="path1612" style="fill:#4169e1;fill-opacity:1;stroke:#FFFFFF;stroke-width:7.92;stroke-dasharray:none;stroke-opacity:1" cx="3303.0745" cy="1782.9095" r="82.6848" />
+    <ns0:text id="path1612_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:2.64;stroke-dasharray:none;stroke-opacity:1" x="3275.9881" y="1820.9255">
+      <ns0:text id="path1612_text" x="3275.9881" y="1820.9255" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:95.04px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">4</ns0:text>
+    </ns0:text>
+  </ns0:g>
+</ns0:svg>

@@ -1,0 +1,19 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" version="1.1" id="svg1628" width="4283.6748" height="3073.1729" viewBox="746.0069 319.04697 4283.6748 3073.1729" ns1:docname="oregonMan.svg" ns2:version="1.2 (dc2aedaf03, 2022-05-15)">
+  <ns0:defs id="defs1632" />
+  <ns1:namedview id="namedview1630" pagecolor="#ffffff" bordercolor="#cccccc" borderopacity="1" ns2:showpageshadow="0" ns2:pageopacity="1" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.21313477" ns2:cx="2186.4101" ns2:cy="2050.3459" ns2:window-width="1920" ns2:window-height="1027" ns2:window-x="-8" ns2:window-y="379" ns2:window-maximized="1" ns2:current-layer="g1634" />
+  <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g1634">
+    <ns0:image width="5440" height="4096" preserveAspectRatio="none" ns3:href="oregonMan.jpg" id="image1636" />
+    <ns0:path style="fill:none;stroke:#4169e1;stroke-width:15.61;stroke-dasharray:none" d="m 1646.8454,2599.2944 c 243.9771,-248.669 455.1111,-370.6575 792.9255,-370.6575 337.8144,0 1283.441,246.375 957.1409,-412.8843 -229.9015,-464.4949 -445.7274,-422.268 -619.3265,-727.2394 -145.488,-255.58703 -173.599,-365.96566 -182.9828,-506.72168" id="path1757" ns1:nodetypes="csssc" />
+    <ns0:path style="fill:none;stroke:#b8860b;stroke-width:15.61;stroke-dasharray:none" d="m 2421.0034,2223.945 c 267.4365,23.4594 0,-563.024 -197.0584,-877.3791 -84.7285,-135.1622 -23.4593,-229.9015 103.2211,-337.8145 83.381,-71.0283 107.9129,-361.27374 23.4593,-581.79149" id="path1759" ns1:nodetypes="cssc" />
+    <ns0:path id="path1757_clone" style="fill:none;stroke:#FFFFFF;stroke-width:15.61;stroke-dasharray:66.9, 66.9" d="m 1646.8454,2599.2944 c 243.9771,-248.669 455.1111,-370.6575 792.9255,-370.6575 337.8144,0 1283.441,246.375 957.1409,-412.8843 -229.9015,-464.4949 -445.7274,-422.268 -619.3265,-727.2394 -145.488,-255.58703 -173.599,-365.96566 -182.9828,-506.72168" />
+    <ns0:path id="path1759_clone" style="fill:none;stroke:#FFFFFF;stroke-width:15.61;stroke-dasharray:66.9, 66.9" d="m 2421.0034,2223.945 c 267.4365,23.4594 0,-563.024 -197.0584,-877.3791 -84.7285,-135.1622 -23.4593,-229.9015 103.2211,-337.8145 83.381,-71.0283 107.9129,-361.27374 23.4593,-581.79149" />
+    <ns0:circle id="path1763" style="fill:#b8860b;fill-opacity:1;stroke:#FFFFFF;stroke-width:6.6899999999999995;stroke-dasharray:none;stroke-opacity:1" cx="2397.5442" cy="1653.8832" r="69.8436" />
+    <ns0:text id="path1763_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:2.23;stroke-dasharray:none;stroke-opacity:1" x="2374.6643999999997" y="1685.9952">
+      <ns0:text id="path1763_text" x="2374.6643999999997" y="1685.9952" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:80.28px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">2</ns0:text>
+    </ns0:text>
+    <ns0:circle id="path1761" style="fill:#4169e1;fill-opacity:1;stroke:#FFFFFF;stroke-width:6.6899999999999995;stroke-dasharray:none;stroke-opacity:1" cx="3120.0916" cy="2280.2476" r="69.8436" />
+    <ns0:text id="path1761_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:2.23;stroke-dasharray:none;stroke-opacity:1" x="3097.2118" y="2312.3596000000002">
+      <ns0:text id="path1761_text" x="3097.2118" y="2312.3596000000002" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:80.28px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">1</ns0:text>
+    </ns0:text>
+  </ns0:g>
+</ns0:svg>

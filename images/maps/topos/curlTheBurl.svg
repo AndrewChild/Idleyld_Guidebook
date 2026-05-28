@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="5440"
+   height="4096"
+   viewBox="0 0 5440 4096"
+   sodipodi:docname="curlTheBurl.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.15070904"
+     inkscape:cx="2000.5436"
+     inkscape:cy="1950.7788"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <image
+       width="5440"
+       height="4096"
+       preserveAspectRatio="none"
+       xlink:href="curlTheBurl.jpg"
+       id="image10" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="m 2467.9221,2603.9863 c 351.89,-150.1398 98.1376,-514.7505 290.8957,-1004.0596 304.9714,-774.15804 844.5361,-853.91982 661.5533,-1224.57733"
+       id="path293"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="m 3218.6208,2392.8522 c -342.5063,9.3838 -581.7915,-197.0584 -525.4891,-530.181"
+       id="path391" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="rect452"
+       width="3894.9226"
+       height="3510.0747"
+       x="988.66003"
+       y="39.811813" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path875"
+       cx="2813.3682"
+       cy="1469.7194"
+       rx="59.71772"
+       ry="82.941277" />
+  </g>
+</svg>
