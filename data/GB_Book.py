@@ -4,8 +4,8 @@ from dataStructure.Book import Book
 book = Book(
     name='Idleyld',
     collaborators=['Andrew Child', 'Griffin Thoms', 'Silas Thoms'],
-    repo='https://github.com/AndrewChild/Idleyld_Guidebook/',
-    dl='',
+    repo='https://andrewchild.github.io/Idleyld_Guidebook/',
+    dl='https://github.com/AndrewChild/Idleyld_Guidebook/raw/refs/heads/main/Idleyld_guidebook.pdf',
     paths={
         'LaTeXTemplates': '../LocalBoulders/templates/',
         'LaTeXOut': './sections/',
