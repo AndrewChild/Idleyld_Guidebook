@@ -242,7 +242,7 @@ Route(name='Trawler',
       grade=4,
       rating=2,
       FA='Silas Thoms',
-      description='')
+      description='Sit start with a left hand low on a good sidepull and right hand slightly hight on an opposing side pull. Squeeze your way up the face and top out on the horn')
 #----------------------------------------------------------
 Subarea(name='Boiled Tree',
         parent=book.areas['Idleyld Boulders'],
